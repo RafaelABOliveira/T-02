@@ -1,0 +1,4 @@
+Nome: Rafael Antonio de Brito Oliveira
+RA: 201751095983
+
+Na escolha entre as tecnologias RPC existentes, eu escolheria o CORBA pelo fato da possibilidade e facilidade de troca de dados em sistemas heterogêneos. Ele se comunica de forma facilitada com o usuário mesmo que seja em outro software, com outro sistema operacional e em outra ferramenta para o desenvolvimento. O Corba é independente da linguagem de programação utilizada para acessá-la, portanto a comunicação entre cliente-servidor se torna mais simples.
